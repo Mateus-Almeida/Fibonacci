@@ -11,7 +11,7 @@ namespace Fbs
 			int y = 1;
 			int z;
 			int contador = 0;
-			for (contador = 0; contador < 40; contador++)
+			for (contador = 0; contador < 100; contador++)
 			{
 				z = x + y;
 				y = x;
